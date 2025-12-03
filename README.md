@@ -1,136 +1,161 @@
-# 👋 Hello! I'm **Roland Zeta Regio**
+<!-- MAIN BANNER -->
 
-📍 *Sto. Tomas City, Batangas, Philippines*
-🎓 *BS Information Technology | Polytechnic University of the Philippines – Sto. Tomas Campus*
-📧 **[regioroland011@gmail.com](mailto:regioroland011@gmail.com)**
-📱 **+63 977 033 3468**
-🔗 **LinkedIn:** linkedin.com/in/roland-regio-58b42a340
-💻 **Portfolio:** RZregio.github.io
------------------------------------
+<div align="center">
+  <img src="https://i.imgur.com/2pOeK7k.gif" width="100%" style="border-radius:12px;" />
+</div>
 
-## 🚀 About Me
+<br>
 
-I am a passionate IT student dedicated to learning how technology solves real-world problems. I enjoy working across different areas—project management, database systems, system configuration, web development, game development, and quality assurance.
+<!-- INTRO CARD -->
 
-I love exploring how systems work, improving them, and building solutions that are both functional and user-focused. I consistently study new tools and technologies, aiming to grow into a reliable, ethical, and impactful IT professional.
+<div style="
+    padding:20px;
+    border-radius:12px;
+    background:#0d1117;
+    border:1px solid #30363d;
+    color:white;
+    animation: fadeIn 1.5s;
+">
 
----
+  <h1 align="center" style="font-size:36px; margin-bottom:10px;">
+    👋 Hello, I'm <span style="color:#58a6ff;">Roland Zeta Regio</span>
+  </h1>
 
-## 🛠️ Technical Skills
+  <p align="center" style="font-size:18px;">
+    📍 Sto. Tomas City, Batangas, Philippines <br>
+    🎓 IT Student – PUP Sto. Tomas <br>
+    💻 Full-Stack Developer • Game Developer • Project Manager
+  </p>
 
-### **Programming Languages**
+  <p align="center">
+    <a href="mailto:regioroland011@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+    <a href="https://linkedin.com/in/roland-regio-58b42a340"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+    <a href="https://github.com/RZregio"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
+  </p>
 
-* HTML, CSS, JavaScript, PHP
-* C#, C++, Java
-* Python
+</div>
 
-### **Tools & Technologies**
+<br>
 
-* Git, GitHub
-* VSCode, Eclipse, Figma, Unity
-* MySQL, SQL Queries, Database Design
-* System setup, OS configuration, network basics
-* QA testing concepts, debugging
+<!-- ABOUT ME -->
 
-### **Soft Skills**
+<h2 style="color:#58a6ff;">🚀 About Me</h2>
 
-* Problem-Solving
-* Communication
-* Adaptability
-* Project Management
-* Team Collaboration
+<div style="display:flex; gap:20px; align-items:center;">
+  <img src="https://i.imgur.com/eoF3b2y.png" width="180" style="border-radius:12px;">
+  <p style="font-size:17px;">I am a passionate IT student dedicated to building meaningful systems that solve real-world problems. 
+  I love creating interactive apps, games, and websites.  
+  My expertise covers web development, game development, system configuration, and project management.</p>
+</div>
 
----
+<br>
 
-## 📜 Certifications
+<!-- TECH STACK -->
 
-### **Cisco Networking Academy**
+<h2 style="color:#58a6ff;">🛠️ Tech Stack</h2>
 
-* Networking Basics
-* Cyber Threat Management
-* Data Science Essentials with Python
-* Operating System Basics
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,cpp,cs&theme=dark" height="55"><br>
+  <img src="https://skillicons.dev/icons?i=github,git,bootstrap,mysql,unity,vscode,figma,eclipse&theme=dark" height="55">
+</div>
 
-### **HP Life**
+<br>
 
-* AI for Beginners
-* AI for Business Management
-* Data Science and Analytics
-* Introduction to Cybersecurity Awareness
-* Professional Networking for Career Growth
+<!-- GITHUB STATS -->
 
-### **Microsoft Learn**
+<h2 style="color:#58a6ff;">📊 GitHub Statistics</h2>
 
-* Generative AI Certification
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RZregio&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RZregio&layout=compact&theme=tokyonight" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RZregio&theme=tokyonight" />
+</div>
 
-## 🎤 Seminars & Workshops Attended
+<br>
 
-* CISO Blueprint: Cybersecurity Leadership
-* TechStart: Introduction to Git & GitHub
-* AI: The New Power Tool for Every IT Professional
-* SKTK: Basic Computer Literacy & Personality Development
-* Bagani: The Making of a Leader
-* Drawing Level Up! – Adobe Photoshop & Design Principles
-* TechQuest: Decoding the Matrix of Software Development
-* Navigating Career Transitions: Strategies for Success
+<!-- CERTIFICATIONS -->
 
----
+<h2 style="color:#58a6ff;">🏆 Certifications</h2>
 
-## 📚 Academic Projects
+<img src="https://i.imgur.com/df4wG2l.png" width="100%" style="border-radius:12px;">
 
-### 🎮 **LANDAS: 2D Mobile Android Game on Philippine History & Culture**
+<ul>
+  <li><b>Cisco:</b> Networking Basics, Cyber Threat Management, Data Science Essentials, Operating System Basics</li>
+  <li><b>HP Life:</b> AI for Beginners, AI for Business, Data Science, Cybersecurity Awareness</li>
+  <li><b>Microsoft Learn:</b> Generative AI Certification</li>
+</ul>
 
-*Project Manager | Full-Stack Developer | Game Designer*
+<br>
 
-* Developed a Unity C# mobile game promoting Philippine culture
-* Implemented core mobile features, UI/UX, and game assets
-* Led planning, storyboarding, and team coordination
+<!-- PROJECT SHOWCASE -->
 
-### 💼 **STBJobs: Local Job-Portal Website**
+<h2 style="color:#58a6ff;">🎮 Project Showcase</h2>
 
-*Project Manager | Full-Stack Developer | UI Designer*
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-* Built a job portal using HTML, CSS, JS, PHP, Bootstrap
-* Designed pages, system features, and database
-* Led project documentation and full development
+  <div style="width:48%; background:#0d1117; padding:15px; border-radius:12px; border:1px solid #30363d;">
+    <img src="https://i.imgur.com/CTgRp2z.png" width="100%" style="border-radius:10px;">
+    <h3 style="color:#58a6ff;">LANDAS – 2D Mobile Game</h3>
+    <p>A Unity-based Android game promoting Philippine culture and history.</p>
+  </div>
 
-### 🐱 **KuroNeko: Journey in Another World**
+  <div style="width:48%; background:#0d1117; padding:15px; border-radius:12px; border:1px solid #30363d;">
+    <img src="https://i.imgur.com/XSp04rr.png" width="100%" style="border-radius:10px;">
+    <h3 style="color:#58a6ff;">STBJobs – Job Portal</h3>
+    <p>Job listing portal built using PHP, MySQL, JavaScript, and Bootstrap.</p>
+  </div>
 
-*Project Manager | Full-Stack Developer | Game Designer*
+  <div style="width:48%; background:#0d1117; padding:15px; border-radius:12px; border:1px solid #30363d;">
+    <img src="https://i.imgur.com/dqrbjRw.png" width="100%" style="border-radius:10px;">
+    <h3 style="color:#58a6ff;">KuroNeko – Java Swing Game</h3>
+    <p>2D story-driven game created using Java Swing and AWT libraries.</p>
+  </div>
 
-* Created a 2D Java Swing desktop game
-* Designed gameplay, UI elements, and assets
-* Handled full development and team coordination
+  <div style="width:48%; background:#0d1117; padding:15px; border-radius:12px; border:1px solid #30363d;">
+    <img src="https://i.imgur.com/HWGpXQ6.png" width="100%" style="border-radius:10px;">
+    <h3 style="color:#58a6ff;">MeloBox – Music Tracking System</h3>
+    <p>MS Access-based music management system for retail stores.</p>
+  </div>
 
-### 🎶 **MeloBox: Music Tracking System for Retail Stores**
+</div>
 
-*Project Manager | Database Manager | UI Designer*
+<br>
 
-* Developed an MS Access–based music-tracking system
-* Designed user-friendly forms and interface
-* Led documentation and system implementation
+<!-- CURRENT LEARNING -->
 
-### 🧩 **Other Works**
+<h2 style="color:#58a6ff;">🌱 What I'm Learning</h2>
 
-* **RZregio.github.io** – Personal Portfolio
-* **ICommunaPH** – Community Event Discovery & Management
-* **CatEnFur** – Java Swing Cat-Themed Product App
-* **CMathings** – C++ Math Problem-Solving Tool
+<div align="center">
+  <img src="https://i.imgur.com/ptYJ5jO.gif" width="300">
+</div>
 
----
+<ul>
+  <li>Backend Development</li>
+  <li>Cybersecurity</li>
+  <li>Advanced Game Mechanics</li>
+  <li>Generative AI Tools</li>
+</ul>
 
-## 🌱 What I’m Currently Working On
+<br>
 
-* Improving my backend and game development skills
-* Enhancing LANDAS for more cultural content
-* Expanding my portfolio projects
-* Exploring cybersecurity and AI technologies
+<!-- CONTACT -->
 
----
+<h2 style="color:#58a6ff;">🤝 Contact Me</h2>
 
-## 🤝 Let’s Connect!
+<p>Email: <b>regioroland011@gmail.com</b></p>
+<p>LinkedIn: <b>linkedin.com/in/roland-regio-58b42a340</b></p>
+<p>Portfolio: <b>RZregio.github.io</b></p>
 
-Feel free to explore my repositories, collaborate, or reach out!
-**I’m always open to learning, creating, and working on meaningful tech solutions.**
+<br><br>
+
+<!-- ANIMATION KEYFRAME -->
+
+<style>
+@keyframes fadeIn {
+  from {opacity:0; transform:translateY(10px);}
+  to {opacity:1; transform:translateY(0);}
+}
+</style>
