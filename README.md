@@ -1,8 +1,8 @@
 <!-- MAIN BANNER -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://i.imgur.com/2pOeK7k.gif" width="100%" style="border-radius:12px;" />
-</div>
+</div> -->
 
 <br>
 
@@ -42,7 +42,7 @@
 <h2 style="color:#58a6ff;">🚀 About Me</h2>
 
 <div style="display:flex; gap:20px; align-items:center;">
-  <img src="https://i.imgur.com/eoF3b2y.png" width="180" style="border-radius:12px;">
+  <!-- <img src="https://i.imgur.com/eoF3b2y.png" width="180" style="border-radius:12px;"> -->
   <p style="font-size:17px;">I am a passionate IT student dedicated to building meaningful systems that solve real-world problems. 
   I love creating interactive apps, games, and websites.  
   My expertise covers web development, game development, system configuration, and project management.</p>
@@ -66,8 +66,8 @@
 <h2 style="color:#58a6ff;">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RZregio&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RZregio&layout=compact&theme=tokyonight" />
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=RZregio&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RZregio&layout=compact&theme=tokyonight" /> -->
 </div>
 
 <div align="center">
@@ -80,7 +80,7 @@
 
 <h2 style="color:#58a6ff;">🏆 Certifications</h2>
 
-<img src="https://i.imgur.com/df4wG2l.png" width="100%" style="border-radius:12px;">
+<!-- <img src="https://i.imgur.com/df4wG2l.png" width="100%" style="border-radius:12px;"> -->
 
 <ul>
   <li><b>Cisco:</b> Networking Basics, Cyber Threat Management, Data Science Essentials, Operating System Basics</li>
@@ -97,25 +97,25 @@
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
   <div style="width:48%; background:#0d1117; padding:15px; border-radius:12px; border:1px solid #30363d;">
-    <img src="https://i.imgur.com/CTgRp2z.png" width="100%" style="border-radius:10px;">
+    <!-- <img src="https://i.imgur.com/CTgRp2z.png" width="100%" style="border-radius:10px;"> -->
     <h3 style="color:#58a6ff;">LANDAS – 2D Mobile Game</h3>
     <p>A Unity-based Android game promoting Philippine culture and history.</p>
   </div>
 
   <div style="width:48%; background:#0d1117; padding:15px; border-radius:12px; border:1px solid #30363d;">
-    <img src="https://i.imgur.com/XSp04rr.png" width="100%" style="border-radius:10px;">
+    <!-- <img src="https://i.imgur.com/XSp04rr.png" width="100%" style="border-radius:10px;"> -->
     <h3 style="color:#58a6ff;">STBJobs – Job Portal</h3>
     <p>Job listing portal built using PHP, MySQL, JavaScript, and Bootstrap.</p>
   </div>
 
   <div style="width:48%; background:#0d1117; padding:15px; border-radius:12px; border:1px solid #30363d;">
-    <img src="https://i.imgur.com/dqrbjRw.png" width="100%" style="border-radius:10px;">
+    <!-- <img src="https://i.imgur.com/dqrbjRw.png" width="100%" style="border-radius:10px;"> -->
     <h3 style="color:#58a6ff;">KuroNeko – Java Swing Game</h3>
     <p>2D story-driven game created using Java Swing and AWT libraries.</p>
   </div>
 
   <div style="width:48%; background:#0d1117; padding:15px; border-radius:12px; border:1px solid #30363d;">
-    <img src="https://i.imgur.com/HWGpXQ6.png" width="100%" style="border-radius:10px;">
+    <!-- <img src="https://i.imgur.com/HWGpXQ6.png" width="100%" style="border-radius:10px;"> -->
     <h3 style="color:#58a6ff;">MeloBox – Music Tracking System</h3>
     <p>MS Access-based music management system for retail stores.</p>
   </div>
@@ -129,7 +129,7 @@
 <h2 style="color:#58a6ff;">🌱 What I'm Learning</h2>
 
 <div align="center">
-  <img src="https://i.imgur.com/ptYJ5jO.gif" width="300">
+  <!-- <img src="https://i.imgur.com/ptYJ5jO.gif" width="300"> -->
 </div>
 
 <ul>
