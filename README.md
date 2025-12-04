@@ -1,9 +1,3 @@
-<!-- MAIN BANNER -->
-
-<!-- <div align="center">
-  <img src="https://i.imgur.com/2pOeK7k.gif" width="100%" style="border-radius:12px;" />
-</div> -->
-
 <br>
 
 <!-- INTRO CARD -->
@@ -42,7 +36,6 @@
 <h2 style="color:#58a6ff;">🚀 About Me</h2>
 
 <div style="display:flex; gap:20px; align-items:center;">
-  <!-- <img src="https://i.imgur.com/eoF3b2y.png" width="180" style="border-radius:12px;"> -->
   <p style="font-size:17px;">I am a passionate IT student dedicated to building meaningful systems that solve real-world problems. 
   I love creating interactive apps, games, and websites.  
   My expertise covers web development, game development, system configuration, and project management.</p>
@@ -79,9 +72,6 @@
 <!-- CERTIFICATIONS -->
 
 <h2 style="color:#58a6ff;">🏆 Certifications</h2>
-
-<!-- <img src="https://i.imgur.com/df4wG2l.png" width="100%" style="border-radius:12px;"> -->
-
 <ul>
   <li><b>Cisco:</b> Networking Basics, Cyber Threat Management, Data Science Essentials, Operating System Basics</li>
   <li><b>HP Life:</b> AI for Beginners, AI for Business, Data Science, Cybersecurity Awareness</li>
@@ -91,36 +81,82 @@
 <br>
 
 <!-- PROJECT SHOWCASE -->
+<h2>🎮 Project Showcase</h2>
 
-<h2 style="color:#58a6ff;">🎮 Project Showcase</h2>
+<!-- LANDAS -->
+<div>
+  <h3>LANDAS – 2D Mobile Android Game</h3>
+  <p>Unity-based Android game about Philippine history and culture.</p>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
+  <strong>Tools Used:</strong><br>
+  <img src="https://img.icons8.com/color/48/unity.png" width="32">
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" width="32">
+  <img src="https://img.icons8.com/color/48/android-os.png" width="32">
 
-  <div style="width:48%; background:#0d1117; padding:15px; border-radius:12px; border:1px solid #30363d;">
-    <!-- <img src="https://i.imgur.com/CTgRp2z.png" width="100%" style="border-radius:10px;"> -->
-    <h3 style="color:#58a6ff;">LANDAS – 2D Mobile Game</h3>
-    <p>A Unity-based Android game promoting Philippine culture and history.</p>
-  </div>
-
-  <div style="width:48%; background:#0d1117; padding:15px; border-radius:12px; border:1px solid #30363d;">
-    <!-- <img src="https://i.imgur.com/XSp04rr.png" width="100%" style="border-radius:10px;"> -->
-    <h3 style="color:#58a6ff;">STBJobs – Job Portal</h3>
-    <p>Job listing portal built using PHP, MySQL, JavaScript, and Bootstrap.</p>
-  </div>
-
-  <div style="width:48%; background:#0d1117; padding:15px; border-radius:12px; border:1px solid #30363d;">
-    <!-- <img src="https://i.imgur.com/dqrbjRw.png" width="100%" style="border-radius:10px;"> -->
-    <h3 style="color:#58a6ff;">KuroNeko – Java Swing Game</h3>
-    <p>2D story-driven game created using Java Swing and AWT libraries.</p>
-  </div>
-
-  <div style="width:48%; background:#0d1117; padding:15px; border-radius:12px; border:1px solid #30363d;">
-    <!-- <img src="https://i.imgur.com/HWGpXQ6.png" width="100%" style="border-radius:10px;"> -->
-    <h3 style="color:#58a6ff;">MeloBox – Music Tracking System</h3>
-    <p>MS Access-based music management system for retail stores.</p>
-  </div>
-
+  <ul>
+    <li>Developed gameplay and story flow</li>
+    <li>Implemented UI and interactions</li>
+    <li>Managed core mechanics and asset integration</li>
+  </ul>
+  <hr>
 </div>
+
+<!-- STBJobs -->
+<div>
+  <h3>STBJobs – Job Portal</h3>
+  <p>Job-listing website built with PHP, MySQL, and Bootstrap.</p>
+
+  <strong>Tools Used:</strong><br>
+  <img src="https://img.icons8.com/color/48/php.png" width="32">
+  <img src="https://img.icons8.com/color/48/mysql.png" width="32">
+  <img src="https://img.icons8.com/color/48/bootstrap.png" width="32">
+
+  <ul>
+    <li>Created backend logic and database structure</li>
+    <li>Developed UI pages for job posting and listings</li>
+    <li>Handled full documentation and system flow</li>
+  </ul>
+  <hr>
+</div>
+
+<!-- KuroNeko -->
+<div>
+  <h3>KuroNeko – Java Swing Game</h3>
+  <p>2D story-driven Java desktop game using Swing and AWT.</p>
+
+  <strong>Tools Used:</strong><br>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="32">
+  <img src="https://img.icons8.com/color/48/intellij-idea.png" width="32">
+  <img src="https://img.icons8.com/color/48/windows-10.png" width="32">
+
+  <ul>
+    <li>Developed character controls and movement</li>
+    <li>Built UI, dialogs, and level structure</li>
+    <li>Managed full workflow and story scripting</li>
+  </ul>
+  <hr>
+</div>
+
+<!-- MeloBox -->
+<div>
+  <h3>MeloBox – Music Tracking System</h3>
+  <p>MS Access-based music tracking and schedule management tool.</p>
+
+  <strong>Tools Used:</strong><br>
+  <img src="https://img.icons8.com/color/48/microsoft-access-2019.png" width="32">
+  <img src="https://img.icons8.com/color/48/database.png" width="32">
+
+  <ul>
+    <li>Built Access database tables and macros</li>
+    <li>Designed forms and workflows</li>
+    <li>Handled system documentation</li>
+  </ul>
+  <hr>
+</div>
+
+
+
+
 
 <br>
 
@@ -129,7 +165,6 @@
 <h2 style="color:#58a6ff;">🌱 What I'm Learning</h2>
 
 <div align="center">
-  <!-- <img src="https://i.imgur.com/ptYJ5jO.gif" width="300"> -->
 </div>
 
 <ul>
@@ -149,13 +184,3 @@
 <p>LinkedIn: <b>linkedin.com/in/roland-regio-58b42a340</b></p>
 <p>Portfolio: <b>RZregio.github.io</b></p>
 
-<br><br>
-
-<!-- ANIMATION KEYFRAME -->
-
-<style>
-@keyframes fadeIn {
-  from {opacity:0; transform:translateY(10px);}
-  to {opacity:1; transform:translateY(0);}
-}
-</style>
