@@ -153,34 +153,3 @@
   </ul>
   <hr>
 </div>
-
-
-
-
-
-<br>
-
-<!-- CURRENT LEARNING -->
-
-<h2 style="color:#58a6ff;">🌱 What I'm Learning</h2>
-
-<div align="center">
-</div>
-
-<ul>
-  <li>Backend Development</li>
-  <li>Cybersecurity</li>
-  <li>Advanced Game Mechanics</li>
-  <li>Generative AI Tools</li>
-</ul>
-
-<br>
-
-<!-- CONTACT -->
-
-<h2 style="color:#58a6ff;">🤝 Contact Me</h2>
-
-<p>Email: <b>regioroland011@gmail.com</b></p>
-<p>LinkedIn: <b>linkedin.com/in/roland-regio-58b42a340</b></p>
-<p>Portfolio: <b>RZregio.github.io</b></p>
-
