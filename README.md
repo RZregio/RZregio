@@ -59,13 +59,13 @@
 <h2 style="color:#58a6ff;">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=RZregio&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RZregio&layout=compact&theme=tokyonight" /> -->
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RZregio&theme=dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RZregio&theme=dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RZregio&theme=dark" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RZregio&theme=tokyonight" />
-</div>
+
+
 
 <br>
 
