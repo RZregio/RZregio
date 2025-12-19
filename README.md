@@ -107,5 +107,10 @@ Problem-solving • Communication • Project Management • Leadership • Team
 <div align="center">
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RZregio&theme=dark" />
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RZregio&theme=dark" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RZregio&layout=compact&theme=dark" />
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RZregio&theme=dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RZregio&theme=dark&utcOffset=8" />
+
+
 </div>
 
