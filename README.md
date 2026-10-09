@@ -48,8 +48,8 @@ system workflows and improving them through structured planning and quality-driv
 <h2 style="color:#58a6ff;">🛠️ Skills</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,node,php,java,python,cpp,cs&theme=dark" height="55"><br>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,bootstrap,tailwindCSS,unity,vscode,eclipse,figma,supabase,googleconsole&theme=dark" height="55">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,java,python,cpp,cs&theme=dark" height="55"><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vercel,bootstrap,tailwind,unity,vscode,eclipse,figma,supabase,googleconsole&theme=dark" height="55">
 </div>
 
 <p align="center" style="font-size:15px;">
