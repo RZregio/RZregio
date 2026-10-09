@@ -17,8 +17,8 @@
 
   <p align="center" style="font-size:18px;">
     📍 Sto. Tomas City, Batangas, Philippines <br>
-    🎓 IT Student – PUP Sto. Tomas <br>
-    💻 Aspiring Full-Stack Developer • Game Developer • Project Manager
+    🎓 Graduated IT Student from PUP Sto. Tomas <br>
+    💻 Aspiring Full-Stack Developer • Project Manager • QA • Game Developer
   </p>
 
   <p align="center">
@@ -48,8 +48,8 @@ system workflows and improving them through structured planning and quality-driv
 <h2 style="color:#58a6ff;">🛠️ Skills</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,cpp,cs&theme=dark" height="55"><br>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,bootstrap,unity,vscode,eclipse,figma&theme=dark" height="55">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,node,php,java,python,cpp,cs&theme=dark" height="55"><br>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,bootstrap,tailwindCSS,unity,vscode,eclipse,figma,supabase,googleconsole&theme=dark" height="55">
 </div>
 
 <p align="center" style="font-size:15px;">
